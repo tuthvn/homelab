@@ -1,6 +1,6 @@
 <div align="center">
 
-# home-lab
+# homelab
 
 <!-- ANCHOR: introduction -->
 
