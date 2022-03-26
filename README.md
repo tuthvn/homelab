@@ -13,7 +13,7 @@ It can be used as a highly customizable framework to build your own homelab.
 
 <!-- ANCHOR_END: introduction -->
 
-Current status: **ALPHA**
+Current status: **BETA**
 
 </div>
 
